@@ -1,3 +1,6 @@
 [submodule "authentication-hr"]
 	path = authentication-hr
 	url = https://github.com/eypsrcnuygr/authentication-hr
+[submodule "authorization-hr"]
+	path = authorization-hr
+	url = https://github.com/eypsrcnuygr/authorization-hr
